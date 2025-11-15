@@ -1,4 +1,0 @@
-fastapi>=0.95.0
-python-telegram-bot==20.4
-uvicorn
-python-dotenv
